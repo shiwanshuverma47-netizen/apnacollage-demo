@@ -1,3 +1,3 @@
 # apnacollage-demo
 this is a demo repo for learning praposal
-author = shiwanshhu verma
+author = shiwanshu verma
